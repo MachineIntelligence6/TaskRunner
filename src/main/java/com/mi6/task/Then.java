@@ -1,5 +1,3 @@
-// Copyright (c) 2021 88 CREATIVE PTY LTD
-
 package com.mi6.task;
 
 public interface Then<T>{
